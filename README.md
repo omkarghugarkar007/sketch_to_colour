@@ -35,4 +35,6 @@ Some of the results
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/62425457/103030298-88041a00-4581-11eb-95c1-c0d0b93eedad.gif)
 
+Thanks Bhuvan Aggarwal for helping the training procedure ❤
+
  - From Omkar with love 💙 !!!
