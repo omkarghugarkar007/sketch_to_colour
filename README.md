@@ -13,10 +13,12 @@ It takes sketch as well as coloured images a input and stack one on another. It 
 
 ### Training
 
-Gan Model contains the generator and the discriminator architecture. Train contains loss function and the code to train the model. The model was trained on the kaggle dataset Anime-sketch-colorization-pair which contains 14k images. Training was done on Google Colab for 2 session of 8 hours and 100 epochs. 'generator.h5' file contains the generator weights.
-### Test
-To test the model, run the command,
+Gan Model contains the generator and the discriminator architecture. Train contains loss function and the code to train the model. The model was trained on the kaggle dataset Anime-sketch-colorization-pair which contains 14k images. Training was done on Google Colab for 2 session of 8 hours and 100 epochs. 
 
+### Test
+Generator weights can be found at - https://drive.google.com/file/d/1cu-MbW4fxP0F9MKQh2HXPjHrACFUzXux/view?usp=sharing
+
+To test the model, run the command,
 ```
 python3 test.py
 ```
